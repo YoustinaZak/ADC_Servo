@@ -1,5 +1,5 @@
 # **Controlling a Servo motor using TIM and ADC**
-The project combines analog input and generating pwm using timers, you can check the code [HERE!](www.github.com)
+The project combines analog input and generating pwm using timers, you can check the code [HERE!](https://github.com/YoustinaZak/ADC_Servo/blob/main/Core/Src/main.c)
 
 ## **Electronic Components**
 1) LCD Display
